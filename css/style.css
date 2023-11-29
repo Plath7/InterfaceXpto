@@ -1,0 +1,88 @@
+*{
+    margin: 0%;
+    background-color: #eee9c7;
+    font-size: 20px;
+    
+}
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: #5a5239;
+    border: 1px solid;
+    
+
+}
+h1{
+    font-family: 'Jomhuria', serif;
+    font-size: 1000px;
+}
+
+.tudo{
+    display: flex;
+    justify-content: space-around;
+}
+.posicoes{
+    display: flex;
+    flex-direction: column;
+}
+
+.ladoesquerdo{
+    display: flex;
+    flex-direction: column;
+}
+.ladodireito{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap-reverse;
+
+}
+.borda{
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: #cec7b6 ;
+    width: 500px;
+    height:50px ;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+
+}
+.cima{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 80px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+
+}
+.baixo{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 80px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.betson{
+    background-color: #cec7b6;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+.cadastro{
+    background-color: #b3c9c1;
+    width: 500px;
+    height: 70px;
+    border-radius: 30px;
+    margin-top: 32px;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+
+.form-check-input{
+    background-color: #cec7b6!important;
+}

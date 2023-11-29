@@ -1,0 +1,5 @@
+Cor 1:#EEE9C7;
+Cor 2:#CEC7B6;
+Cor 3:#B3C9C1;
+Cor 4:#190A12;
+Cor 5:#5A5239;
